@@ -1,2 +1,2 @@
 # Marathon
-Vulnerable demo application
+Vulnerable demo (test) application
